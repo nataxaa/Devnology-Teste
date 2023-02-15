@@ -1,4 +1,8 @@
-# Teste Tropa Digital
+<h1 align="center">
+  <img alt="Barber" title="#delicinha" src="github/logo.png" width="150px" borderRadius="20px" />
+</h1>
+
+# Teste Devnology
 
 <p align="center">
   <a href="https://github.com/nataxaa">
@@ -23,8 +27,15 @@
 
 ## 💻 Projeto
 
-Projeto em ReactJS com TypeScript, tela de login utilizando localstorage. Foi feito em 5 horas, fiz mais uma tela de cadastro e um botão para sair da sessão. Cidade Fortaleza-CE, telefone para contato: (85) 99635-4568.  
-<br />
+Projeto feito em react e node. Exercício bem básico a única dificuldade foi hospedar o backend e infelizmente não consegui, mas deixei o processo de instalação embaixo. Como web crawler utilizei puppeteer para automatizar o acesso dos dados. No frontend usei react, styled-components, css, html, axios. No backend express, controllers, models, sqlite, prisma.
+
+<br />foi 
+
+## 🌐 Preview
+
+<h1 align="center">
+    <img src="github/video_teste.gif" />
+</h1>
 
 ## 🚀 Tecnologias
 
@@ -33,6 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [React](https://pt-br.reactjs.org/)
+- [Node](https://nodejs.org/en/)
 
 <br />
 
